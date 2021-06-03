@@ -1,0 +1,12 @@
+{
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "git.enabled": true,
+    "window.zoomLevel": 0,
+    "editor.renderControlCharacters": false,
+    "editor.renderWhitespace": "none",
+    "http.proxyStrictSSL": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "C_Cpp.updateChannel": "Insiders",
+    "workbench.colorTheme": "Mariana Pro (Cool)"
+}
